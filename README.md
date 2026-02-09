@@ -1,22 +1,32 @@
-# Landing Page
+# Landing Page Template
 
-A clean and responsive landing page template built with:
+A clean and responsive **landing page template** built using:
 
 - HTML5
 - CSS Flexbox and Grid
-- Responsive design for mobile and desktop
+- Fully responsive design for desktop and mobile
 
-## Features
+---
 
-- Modern and professional layout
-- Hero section with image
-- Features section
-- Pricing section
-- Fully responsive design
+## 🌟 Features
 
-## How to Use
+- Modern Hero Section with image and "Get Started" button
+- Features section highlighting key features
+- Pricing plans with "Choose Plan" buttons
+- Clean and minimal design
+- Responsive layout
+
+---
+
+## 🚀 Live Demo
+
+Check the live site here: [Landing Page](https://monu655.github.io/landing-page/)
+
+---
+
+## 📁 How to Use
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/monu655/landing-page.git
 
+```bash
+git clone https://github.com/monu655/landing-page.git
